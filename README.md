@@ -54,7 +54,7 @@ We need all kinds of help — reverse engineers, backend devs, and people who ca
 
 1. Fork the repo
 2. Check the [issues](../../issues) tab for tasks you can help with
-3. Read [CONTRIBUTING.md](CONTRIBUTING.md) *(coming soon)*
+3. Read [CONTRIBUTING.md](CONTRIBUTING.md)
 4. Join the discussion in [Discussions](../../discussions)
 
 ### What we need most right now
